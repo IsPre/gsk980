@@ -1,20 +1,252 @@
 {
     "content_1": [
         {
-            "name": "1、手轮调试",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/1%E6%89%8B%E8%BD%AE%E8%B0%83%E8%AF%95.pdf"
+            "name": "3.2 G00快速定位",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
         },
         {
-            "name": "2、主轴调试",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+            "name": "3.3 G01直线插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.3%20G01%E7%9B%B4%E7%BA%BF%E6%8F%92%E8%A1%A5.pdf"
         },
         {
-            "name": "3、刚性攻丝调试",
+            "name": "3.4 G02、G03圆弧插补",
             "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
         },
         {
-            "name": "4、系统升级",
+            "name": "3.5 G05、G05.1三点圆弧插补",
             "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.6 G6.2G6.3椭圆插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.7 G7.2G7.3抛物线",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.8 G17~G19平面选择代码",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.9 G12.1极坐标插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.10 G7.1圆柱插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.11 倒角功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.12 段间准停功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.13  图纸尺寸直接输入功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.14  暂停代码G04",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.15  机械零点（机床零点）功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.16 G31跳转插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.17 G36、G37自动刀具偏移",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.18 G50工件坐标系设定",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.19 G52局部坐标系",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.20 G53机床坐标系定位",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.21 G54~G59工件坐标系",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.22.1 G90轴向切削循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.22.2 G94径向切削循坏",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.23.1 G71轴向粗车循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.23.2 G72径向粗车循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.23.3 G73封闭切削循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.23.4 G70精加工循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.23.5 G74轴向切槽多重循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.23.6 G75径向切槽多重循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.23.7 G74.1轴向凹槽切削循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.23.8 G75.1径向凹槽切削循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.23.9 G83、G87钻孔循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.23.10 G83.1、G83.2、G87.1钻孔循环(斜孔)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.23.11 G86独立往复进给循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.24.1 G32等螺距螺纹切削代码",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.24.2 G32.1刚性螺纹切削代码",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.24.3 G32.2、G32.3圆弧螺纹切削代码",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.24.4 G34变螺距螺纹切削代码",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.24.5 G33攻丝循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "33.24.6 G84、G88刚性攻丝",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.24.7 G84.1、G88.1刚性攻丝(斜孔攻丝)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.24.8 G84.2刚性攻丝",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.24.9 G92螺纹切削循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.24.10 G92.1刚性螺纹切削循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.24.11 G92 P1、G92 P1螺纹修复功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.24.12 G76多重螺纹切削循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.24.13 G78增强型螺纹切削循环",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.24.14 G92.3变螺距等牙尖宽度螺纹切削代码",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.25 G96恒线速、G97恒转速",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.26 G98每分钟进给、G99每转进给",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.27 附加轴功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.28 宏代码",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.29 语句式宏代码",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.30 公英制转换",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.31 G22、G23存储行程限位2检测",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.32 G代码宏程序调用",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.34 力矩控制",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.35 自动断屑",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.36 多边形切削功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
+        },
+        {
+            "name": "3.37 滚齿机功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/2%E4%B8%BB%E8%BD%B4%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.38 倾斜轴控制",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/3%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E8%B0%83%E8%AF%95.pdf"
+        },
+        {
+            "name": "3.39 进给轴同步控制",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/4%E7%B3%BB%E7%BB%9F%E5%8D%87%E7%BA%A7.pdf"
+        },
+        {
+            "name": "3.40 分度台功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E7%BC%96%E7%A8%8B%E6%8C%87%E4%BB%A4/3.2%20G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
         }
     ]
 }
