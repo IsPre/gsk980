@@ -1,104 +1,104 @@
 {
-    "content_1": [
+    "content_2": [
         {
-            "name": "G00\u5feb\u901f\u5b9a\u4f4d.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G00\u5feb\u901f\u5b9a\u4f4d.pdf"
+            "name": "G00快速定位",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G00%E5%BF%AB%E9%80%9F%E5%AE%9A%E4%BD%8D.pdf"
         },
         {
-            "name": "G01\u76f4\u7ebf\u63d2\u8865.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G01\u76f4\u7ebf\u63d2\u8865.pdf"
+            "name": "G01直线插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G01%E7%9B%B4%E7%BA%BF%E6%8F%92%E8%A1%A5.pdf"
         },
         {
-            "name": "G2.1\u3001G3.1\u692d\u5706\u63d2\u8865.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G2.1\u3001G3.1\u692d\u5706\u63d2\u8865.pdf"
+            "name": "G2.1、G3.1椭圆插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G2.1%E3%80%81G3.1%E6%A4%AD%E5%9C%86%E6%8F%92%E8%A1%A5.pdf"
         },
         {
-            "name": "G2.2\u3001G3.2\u629b\u7269\u7ebf\u63d2\u8865.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G2.2\u3001G3.2\u629b\u7269\u7ebf\u63d2\u8865.pdf"
+            "name": "G2.2、G3.2抛物线插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G2.2%E3%80%81G3.2%E6%8A%9B%E7%89%A9%E7%BA%BF%E6%8F%92%E8%A1%A5.pdf"
         },
         {
-            "name": "G02\u3001G03\u5706\u5f27\u63d2\u8865.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G02\u3001G03\u5706\u5f27\u63d2\u8865.pdf"
+            "name": "G02、G03圆弧插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G02%E3%80%81G03%E5%9C%86%E5%BC%A7%E6%8F%92%E8%A1%A5.pdf"
         },
         {
-            "name": "G04\u6682\u505c\u4ee3\u7801.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G04\u6682\u505c\u4ee3\u7801.pdf"
+            "name": "G04暂停代码",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G04%E6%9A%82%E5%81%9C%E4%BB%A3%E7%A0%81.pdf"
         },
         {
-            "name": "G05\u4e09\u70b9\u5706\u5f27\u63d2\u8865.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G05\u4e09\u70b9\u5706\u5f27\u63d2\u8865.pdf"
+            "name": "G05三点圆弧插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G05%E4%B8%89%E7%82%B9%E5%9C%86%E5%BC%A7%E6%8F%92%E8%A1%A5.pdf"
         },
         {
-            "name": "G6.4\u3001G6.41\u504f\u5fc3\u5706\u5faa\u73af\u5207\u524a.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G6.4\u3001G6.41\u504f\u5fc3\u5706\u5faa\u73af\u5207\u524a.pdf"
+            "name": "G6.4、G6.41偏心圆循环切削",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G6.4%E3%80%81G6.41%E5%81%8F%E5%BF%83%E5%9C%86%E5%BE%AA%E7%8E%AF%E5%88%87%E5%89%8A.pdf"
         },
         {
-            "name": "G6.5\u504f\u5fc3\u692d\u5706.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G6.5\u504f\u5fc3\u692d\u5706.pdf"
+            "name": "G6.5偏心椭圆",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G6.5%E5%81%8F%E5%BF%83%E6%A4%AD%E5%9C%86.pdf"
         },
         {
-            "name": "G6.6\u591a\u8fb9\u5f62\u5207\u524a.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G6.6\u591a\u8fb9\u5f62\u5207\u524a.pdf"
+            "name": "G6.6多边形切削",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G6.6%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%88%87%E5%89%8A.pdf"
         },
         {
-            "name": "G7.1\u5706\u67f1\u63d2\u8865.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G7.1\u5706\u67f1\u63d2\u8865.pdf"
+            "name": "G7.1圆柱插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G7.1%E5%9C%86%E6%9F%B1%E6%8F%92%E8%A1%A5.pdf"
         },
         {
-            "name": "G7.9\u3001G165\u65ad\u5c51\u5207\u524a.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G7.9\u3001G165\u65ad\u5c51\u5207\u524a.pdf"
+            "name": "G7.9、G165断屑切削",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G7.9%E3%80%81G165%E6%96%AD%E5%B1%91%E5%88%87%E5%89%8A.pdf"
         },
         {
-            "name": "G10.9\u534a\u76f4\u5f84\u5207\u6362.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G10.9\u534a\u76f4\u5f84\u5207\u6362.pdf"
+            "name": "G10.9半直径切换",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G10.9%E5%8D%8A%E7%9B%B4%E5%BE%84%E5%88%87%E6%8D%A2.pdf"
         },
         {
-            "name": "G12.1\u3001G13.1\u6781\u5750\u6807\u63d2\u8865.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G12.1\u3001G13.1\u6781\u5750\u6807\u63d2\u8865.pdf"
+            "name": "G12.1、G13.1极坐标插补",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G12.1%E3%80%81G13.1%E6%9E%81%E5%9D%90%E6%A0%87%E6%8F%92%E8%A1%A5.pdf"
         },
         {
-            "name": "G20\u3001G21\u516c\u82f1\u5236\u8f6c\u6362.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G20\u3001G21\u516c\u82f1\u5236\u8f6c\u6362.pdf"
+            "name": "G20、G21公英制转换",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G20%E3%80%81G21%E5%85%AC%E8%8B%B1%E5%88%B6%E8%BD%AC%E6%8D%A2.pdf"
         },
         {
-            "name": "G25\u3001G26\u4e3b\u8f74\u6ce2\u52a8\u68c0\u6d4b.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G25\u3001G26\u4e3b\u8f74\u6ce2\u52a8\u68c0\u6d4b.pdf"
+            "name": "G25、G26主轴波动检测",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G25%E3%80%81G26%E4%B8%BB%E8%BD%B4%E6%B3%A2%E5%8A%A8%E6%A3%80%E6%B5%8B.pdf"
         },
         {
-            "name": "G31\u8df3\u8f6c\u6307\u4ee4.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G31\u8df3\u8f6c\u6307\u4ee4.pdf"
+            "name": "G31跳转指令",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G31%E8%B7%B3%E8%BD%AC%E6%8C%87%E4%BB%A4.pdf"
         },
         {
-            "name": "G36\u3001G37\u81ea\u52a8\u5200\u5177\u504f\u79fb.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G36\u3001G37\u81ea\u52a8\u5200\u5177\u504f\u79fb.pdf"
+            "name": "G36、G37自动刀具偏移",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G36%E3%80%81G37%E8%87%AA%E5%8A%A8%E5%88%80%E5%85%B7%E5%81%8F%E7%A7%BB.pdf"
         },
         {
-            "name": "G51.3\u6eda\u9f7f\u529f\u80fd.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G51.3\u6eda\u9f7f\u529f\u80fd.pdf"
+            "name": "G51.3滚齿功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G51.3%E6%BB%9A%E9%BD%BF%E5%8A%9F%E8%83%BD.pdf"
         },
         {
-            "name": "G76\u591a\u91cd\u87ba\u7eb9\u5207\u524a\u5faa\u73af\u529f\u80fd\u589e\u5f3a\u578b.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G76\u591a\u91cd\u87ba\u7eb9\u5207\u524a\u5faa\u73af\u529f\u80fd\u589e\u5f3a\u578b.pdf"
+            "name": "G76多重螺纹切削循环功能增强型",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G76%E5%A4%9A%E9%87%8D%E8%9E%BA%E7%BA%B9%E5%88%87%E5%89%8A%E5%BE%AA%E7%8E%AF%E5%8A%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E5%9E%8B.pdf"
         },
         {
-            "name": "G84\u3001G88\u521a\u6027\u653b\u4e1d.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/G84\u3001G88\u521a\u6027\u653b\u4e1d.pdf"
+            "name": "G84、G88刚性攻丝",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/G84%E3%80%81G88%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D.pdf"
         },
         {
-            "name": "\u4e2d\u65ad\u578b\u5b8f\u7a0b\u5e8f\u8c03\u7528.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/\u4e2d\u65ad\u578b\u5b8f\u7a0b\u5e8f\u8c03\u7528.pdf"
+            "name": "中断型宏程序调用",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/%E4%B8%AD%E6%96%AD%E5%9E%8B%E5%AE%8F%E7%A8%8B%E5%BA%8F%E8%B0%83%E7%94%A8.pdf"
         },
         {
-            "name": "\u591a\u8fb9\u5f62\u63d2\u8865G51.2.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/\u591a\u8fb9\u5f62\u63d2\u8865G51.2.pdf"
+            "name": "多边形插补G51.2",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E6%8F%92%E8%A1%A5G51.2.pdf"
         },
         {
-            "name": "\u94e3\u524a\u529f\u80fd\u8bf4\u660e.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/\u94e3\u524a\u529f\u80fd\u8bf4\u660e.pdf"
+            "name": "铣削功能说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/%E9%93%A3%E5%89%8A%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "\u9650\u65f6\u505c\u673a\u7b80\u6613\u8bf4\u660e.pdf",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/\u9650\u65f6\u505c\u673a\u7b80\u6613\u8bf4\u660e.pdf"
+            "name": "限时停机简易说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/%E9%99%90%E6%97%B6%E5%81%9C%E6%9C%BA%E7%AE%80%E6%98%93%E8%AF%B4%E6%98%8E.pdf"
         }
     ]
 }

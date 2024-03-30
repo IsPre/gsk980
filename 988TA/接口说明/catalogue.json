@@ -1,12 +1,68 @@
 {
-    "content_1": [
+    "content_2": [
         {
-            "name": "1、简易调试总说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/980MDi%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95%E8%AF%B4%E6%98%8E.pdf"
+            "name": "1.总线连接",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/1.%E6%80%BB%E7%BA%BF%E8%BF%9E%E6%8E%A5.pdf"
         },
         {
-            "name": "2、简易调试总说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/980MDi%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95%E8%AF%B4%E6%98%8E.pdf"
+            "name": "2.主轴编码器接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.%E4%B8%BB%E8%BD%B4%E7%BC%96%E7%A0%81%E5%99%A8%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "3.高速输入接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/3.%E9%AB%98%E9%80%9F%E8%BE%93%E5%85%A5%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "4.通信接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/4.%E9%80%9A%E4%BF%A1%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "5.电源接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/5.%E7%94%B5%E6%BA%90%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "6.网络接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/6.%E7%BD%91%E7%BB%9C%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "7.面板USB接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/7.%E9%9D%A2%E6%9D%BFUSB%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "8.波段开关专用接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/8.%E6%B3%A2%E6%AE%B5%E5%BC%80%E5%85%B3%E4%B8%93%E7%94%A8%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "9.外接按键专用接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/9.%E5%A4%96%E6%8E%A5%E6%8C%89%E9%94%AE%E4%B8%93%E7%94%A8%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "10.手脉接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/10.%E6%89%8B%E8%84%89%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "11.机床面板电源接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/11.%E6%9C%BA%E5%BA%8A%E9%9D%A2%E6%9D%BF%E7%94%B5%E6%BA%90%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "12.主轴CN41及主轴CN42接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/12.%E4%B8%BB%E8%BD%B4CN41%E5%8F%8A%E4%B8%BB%E8%BD%B4CN42%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "13.面板按键接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/13.%E9%9D%A2%E6%9D%BF%E6%8C%89%E9%94%AE%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "14.高速IO接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/14.%E9%AB%98%E9%80%9FIO%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "15.通用机床IO接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/15.%E9%80%9A%E7%94%A8%E6%9C%BA%E5%BA%8AIO%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "16.手持盒接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/16.%E6%89%8B%E6%8C%81%E7%9B%92%E6%8E%A5%E5%8F%A3.pdf"
         }
     ]
 }
