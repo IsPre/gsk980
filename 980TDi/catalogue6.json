@@ -1,0 +1,136 @@
+{
+    "content_1": [
+        {
+            "name": "4.1 SET(置位)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.1%20SET(%E7%BD%AE%E4%BD%8D).pdf"
+        },
+        {
+            "name": "4.2 RST(复位)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.2%20RST(%E5%A4%8D%E4%BD%8D).pdf"
+        },
+        {
+            "name": "4.3 CMP(二进制数据比较)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.3%20CMP(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E6%AF%94%E8%BE%83).pdf"
+        },
+        {
+            "name": " 4.4 TMRB(定时器)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.4%20TMRB(%E5%AE%9A%E6%97%B6%E5%99%A8).pdf"
+        },
+        {
+            "name": "4.5 CTRC(二进制计数器)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.5%20CTRC(%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%AE%A1%E6%95%B0%E5%99%A8).pdf"
+        },
+        {
+            "name": "4.6 MOVN(二进制数据传输)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.6%20MOVN(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93).pdf"
+        },
+        {
+            "name": "4.7 DECB(二进制译码)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.7%20DECB(%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%AF%91%E7%A0%81).pdf"
+        },
+        {
+            "name": "4.8 CODB(二进制代码转换)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.8%20CODB(%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BB%A3%E7%A0%81%E8%BD%AC%E6%8D%A2).pdf"
+        },
+        {
+            "name": "4.9 JMPB(标号跳转)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.9%20JMPB(%E6%A0%87%E5%8F%B7%E8%B7%B3%E8%BD%AC).pdf"
+        },
+        {
+            "name": "4.10 LBL(标号)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.10%20LBL(%E6%A0%87%E5%8F%B7).pdf"
+        },
+        {
+            "name": "4.11 CALL(调用子程序)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.11%20CALL(%E8%B0%83%E7%94%A8%E5%AD%90%E7%A8%8B%E5%BA%8F).pdf"
+        },
+        {
+            "name": "4.12 ROTB(二进制旋转控制)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.12%20ROTB(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%97%8B%E8%BD%AC%E6%8E%A7%E5%88%B6).pdf"
+        },
+        {
+            "name": " 4.13 PARI(奇偶校验)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.13%20PARI(%E5%A5%87%E5%81%B6%E6%A0%A1%E9%AA%8C).pdf"
+        },
+        {
+            "name": "4.14 ADDB(二进制数据相加)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.14%20ADDB(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E7%9B%B8%E5%8A%A0).pdf"
+        },
+        {
+            "name": "4.15 SUBB(二进制数据相减)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.15%20SUBB(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E7%9B%B8%E5%87%8F).pdf"
+        },
+        {
+            "name": "4.16 DIFU(上升沿置位)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.16%20DIFU(%E4%B8%8A%E5%8D%87%E6%B2%BF%E7%BD%AE%E4%BD%8D).pdf"
+        },
+        {
+            "name": "4.17 DIFD(下降沿置位)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.17%20DIFD(%E4%B8%8B%E9%99%8D%E6%B2%BF%E7%BD%AE%E4%BD%8D).pdf"
+        },
+        {
+            "name": "4.18 ALT(交替输出)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.18%20ALT(%E4%BA%A4%E6%9B%BF%E8%BE%93%E5%87%BA).pdf"
+        },
+        {
+            "name": "4.19 MOVE(逻辑乘)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.19%20MOVE(%E9%80%BB%E8%BE%91%E4%B9%98).pdf"
+        },
+        {
+            "name": "4.20 WAND(二进制字节与)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.20%20WAND(%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%97%E8%8A%82%E4%B8%8E).pdf"
+        },
+        {
+            "name": "4.21 WOR(二进制字节或)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.21%20WOR(%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%97%E8%8A%82%E6%88%96).pdf"
+        },
+        {
+            "name": "4.22 WXOR(二进制字节异或)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.22%20WXOR(%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%97%E8%8A%82%E5%BC%82%E6%88%96).pdf"
+        },
+        {
+            "name": " 4.23 WINV(二进制字节取反)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.23%20WINV(%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%97%E8%8A%82%E5%8F%96%E5%8F%8D).pdf"
+        },
+        {
+            "name": "4.24 WSHR(二进制数据右移位)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.24%20WSHR(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E5%8F%B3%E7%A7%BB%E4%BD%8D).pdf"
+        },
+        {
+            "name": " 4.25 WSHL(二进制数据左移位)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.25%20WSHL(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E5%B7%A6%E7%A7%BB%E4%BD%8D).pdf"
+        },
+        {
+            "name": "4.26 MULB(二进制数据乘法运算)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.26%20MULB(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E4%B9%98%E6%B3%95%E8%BF%90%E7%AE%97).pdf"
+        },
+        {
+            "name": " 4.27 DIVB(二进制数据除法运算)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.27%20DIVB(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E9%99%A4%E6%B3%95%E8%BF%90%E7%AE%97).pdf"
+        },
+        {
+            "name": " 4.28 WINDR(窗口数据功能指令)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.28%20WINDR(%E7%AA%97%E5%8F%A3%E6%95%B0%E6%8D%AE%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4).pdf"
+        },
+        {
+            "name": " 4.29 XMOV(二进制索引数据传输)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.29%20XMOV(%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%B4%A2%E5%BC%95%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93).pdf"
+        },
+        {
+            "name": " 4.30 XCHG(二进制数据交换)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.30%20XCHG(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E4%BA%A4%E6%8D%A2).pdf"
+        },
+        {
+            "name": "4.31 MOVBT(二进制数据位传输)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.31%20MOVBT(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E4%BD%8D%E4%BC%A0%E8%BE%93).pdf"
+        },
+        {
+            "name": "4.32 DSCHB(二进制数据检索)",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.32%20DSCHB(%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE%E6%A3%80%E7%B4%A2).pdf"
+        },
+        {
+            "name": "4.33 AXCTL PLC轴控指令",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/4.33%20AXCTL%20PLC%E8%BD%B4%E6%8E%A7%E6%8C%87%E4%BB%A4.pdf"
+        }
+    ]
+}
