@@ -1,0 +1,62 @@
+{
+    "dir": [
+        {
+            "id": 1,
+            "name": "1、DXF钻孔铣槽CAM功能"
+        },
+        {
+            "id": 2,
+            "name": "2、钻孔攻丝电流检测功能"
+        },
+        {
+            "id": 3,
+            "name": "3、一键断点恢复功能"
+        },
+        {
+            "id": 4,
+            "name": "4、小线段前瞻功能"
+        },
+        {
+            "id": 5,
+            "name": "5、G02、G03螺旋线加工指令"
+        },
+        {
+            "id": 6,
+            "name": "6、G01铣平面功能"
+        },
+        {
+            "id": 7,
+            "name": "7、图表编程"
+        },
+        {
+            "id": 8,
+            "name": "8、周边轴功能"
+        }
+    ],
+    "url": [
+        {
+            "1": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/CommonFunction/part1.json"
+        },
+        {
+            "2": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/CommonFunction/part2.json"
+        },
+        {
+            "3": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/CommonFunction/part3.json"
+        },
+        {
+            "4": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/CommonFunction/part4.json"
+        },
+        {
+            "5": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/CommonFunction/part5.json"
+        },
+        {
+            "6": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/CommonFunction/part6.json"
+        },
+        {
+            "7": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/CommonFunction/part7.json"
+        },
+        {
+            "8": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/CommonFunction/part8.json"
+        }
+    ]
+}
