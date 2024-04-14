@@ -1,5 +1,5 @@
 {
-    "easySet_dir": [
+    "dir": [
         {
             "id": 1,
             "name": "1、总线连接方式"
@@ -47,6 +47,44 @@
         {
             "id": 12,
             "name": "12、导入REN螺补文件"
+        }
+    ],
+    "url": [
+        {
+            "1": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part1.json"
+        },
+        {
+            "2": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part2.json"
+        },
+        {
+            "3": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part3.json"
+        },
+        {
+            "4": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part4.json"
+        },
+        {
+            "5": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part5.json"
+        },
+        {
+            "6": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part6.json"
+        },
+        {
+            "7": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part7.json"
+        },
+        {
+            "8": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part8.json"
+        },
+        {
+            "9": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part9.json"
+        },
+        {
+            "10": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part10.json"
+        },
+        {
+            "11": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part11.json"
+        },
+        {
+            "12": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/EasySet/part12.json"
         }
     ]
 }
