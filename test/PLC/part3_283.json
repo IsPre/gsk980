@@ -1,0 +1,3 @@
+{
+  "content": "<div class=\"WordSection1\" style=\"layout-grid:15.6pt 0pt\">\n<h4><span lang=\"EN-US\">3.28.3 M</span><span style=\"font-family:宋体\">功能指令</span></h4>\n<p class=\"MsoNormal\" style=\"margin-left:21.0pt;text-autospace:none;vertical-align:\nbottom\"><span lang=\"EN-US\">M60</span>：启动刀库旋转</p>\n<p class=\"MsoNormal\" style=\"margin-left:21.0pt;text-autospace:none;vertical-align:\nbottom\"><span lang=\"EN-US\">M1000</span>：初始化刀号。<span lang=\"EN-US\">D409</span>、<span lang=\"EN-US\">D410</span>设为<span lang=\"EN-US\">1</span>。</p>\n<p class=\"MsoNormal\" style=\"margin-left:21.0pt;text-autospace:none;vertical-align:\nbottom\"><span lang=\"EN-US\"> </span></p>\n</div>"
+}

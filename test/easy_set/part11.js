@@ -1,0 +1,79 @@
+export const part11=
+`
+
+
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<h1 style='margin-bottom:0cm;line-height:normal'><span lang=EN-US
+style='font-size:16.0pt'>11</span><span style='font-size:16.0pt'>、备份<span
+lang=EN-US>/</span>恢复</span></h1>
+
+<h2 style='margin:0cm'><span lang=EN-US style='font-size:10.5pt;line-height:
+173%'>11.1</span><span style='font-size:10.5pt;line-height:173%'>备份操作步骤：</span></h2>
+
+<p class=MsoNormal><span lang=EN-US>1</span>）插入<span lang=EN-US>U</span>盘。</p>
+
+<p class=MsoNormal><span lang=EN-US>2</span>）选择<span lang=EN-US>MDI</span>方式，按设置<span
+lang=EN-US>-&gt;CNC</span>设置，输入<span lang=EN-US>2</span>级权限密码。</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>3）<span style='font:7.0pt "Times New Roman"'> </span></span>在设置页面按文件管理<span
+lang=EN-US>-&gt;</span>备份<span lang=EN-US>/</span>恢复，进入备份<span lang=EN-US>/</span>恢复页面，如下图：</p>
+
+<p class=MsoNormal align=left style='text-align:left'><span lang=EN-US><img
+width=429 height=322 id="图片 31" src="https://gitee.com/lyyuoo/gsk980/raw/master/picture/980MDi%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95/image050.jpg"></span></p>
+
+<p class=MsoNormal align=left style='text-align:left'><span lang=EN-US>4</span>）按默认把备份操作里面的数据全部打勾选择，然后按<span
+lang=EN-US><img width=37 height=31 id="图片 22" src="https://gitee.com/lyyuoo/gsk980/raw/master/picture/980MDi%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95/image051.jpg"></span>，系统开始备份数据。</p>
+
+<p class=MsoListParagraph align=left style='margin-left:18.0pt;text-align:left;
+text-indent:-18.0pt'><span lang=EN-US>1）<span style='font:7.0pt "Times New Roman"'>
+</span></span>备份完成，系统提示<span lang=EN-US>“</span>备份成功<span lang=EN-US>”</span>。备份数据保存在<span
+lang=EN-US>U</span>盘<span lang=EN-US>gsk980mdi_backup</span>文件夹。</p>
+
+<h2 style='margin:0cm'><span lang=EN-US style='font-size:10.5pt;line-height:
+173%'>11.2</span><span style='font-size:10.5pt;line-height:173%'>恢复操作步骤：</span></h2>
+
+<p class=MsoNormal><span lang=EN-US>1</span>）插入<span lang=EN-US>U</span>盘。</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>2）<span style='font:7.0pt "Times New Roman"'> </span></span>选择<span
+lang=EN-US>MDI</span>方式，按设置<span lang=EN-US>-&gt;CNC</span>设置，输入<span
+lang=EN-US>2</span>级权限密码。</p>
+
+<p class=MsoNormal><span lang=EN-US>3</span>）在设置页面按文件管理<span lang=EN-US>-&gt;</span>备份<span
+lang=EN-US>/</span>恢复，进入备份<span lang=EN-US>/</span>恢复页面，移动光标到恢复操作栏，如下图：</p>
+
+<p class=MsoNormal align=left style='text-align:left'><span lang=EN-US><img
+width=429 height=322 src="https://gitee.com/lyyuoo/gsk980/raw/master/picture/980MDi%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95/image052.jpg"></span></p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>4）<span style='font:7.0pt "Times New Roman"'> </span></span>按<span
+lang=EN-US><img width=34 height=30 id="图片 35" src="https://gitee.com/lyyuoo/gsk980/raw/master/picture/980MDi%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95/image053.jpg"></span>把全部恢复选项打勾，或根据需要单个选择需要恢复的选项，如下图：</p>
+
+<p class=MsoListParagraph align=left style='text-align:left;text-indent:0cm'><span
+lang=EN-US><img width=429 height=322 src="https://gitee.com/lyyuoo/gsk980/raw/master/picture/980MDi%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95/image054.jpg"></span></p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>5）<span style='font:7.0pt "Times New Roman"'> </span></span>按<span
+lang=EN-US><img width=39 height=33 id="图片 34" src="https://gitee.com/lyyuoo/gsk980/raw/master/picture/980MDi%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95/image055.jpg"></span>，系统提示“是否进行数据恢复？”，按输入键开始恢复数据。</p>
+
+<p class=MsoListParagraph align=left style='margin-left:18.0pt;text-align:left;
+text-indent:-18.0pt'><span lang=EN-US>6）<span style='font:7.0pt "Times New Roman"'>
+</span></span>恢复完成，系统提示<span lang=EN-US>“</span>成功恢复数据！<span lang=EN-US>”</span>。默认恢复数据路径为<span
+lang=EN-US>u/gsk980mdi_backup/user</span>。</p>
+
+</div>
+
+<span lang=EN-US style='font-size:10.5pt;font-family:等线'><br clear=all
+style='page-break-before:always'>
+</span>
+
+<div class=WordSection2 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+</div>
+
+
+`

@@ -1,0 +1,71 @@
+export const part6=
+`
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<h1 style='margin-bottom:0cm;line-height:normal'><span lang=EN-US
+style='font-size:16.0pt'>6</span><span style='font-size:16.0pt'>、软件限位设置</span></h1>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=584
+ style='width:437.75pt;border-collapse:collapse;border:none'>
+ <tr>
+  <td width=66 valign=top style='width:49.75pt;border:solid black 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>No.172.4</span></p>
+  </td>
+  <td width=517 valign=top style='width:388.0pt;border:solid black 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal>软件行程限位<span lang=EN-US> 0</span>：检查；<span lang=EN-US>1</span>：不检查</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=66 valign=top style='width:49.75pt;border:solid black 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>No.45</span></p>
+  </td>
+  <td width=517 valign=top style='width:388.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal>各轴正向限位机床坐标值</p>
+  </td>
+ </tr>
+ <tr>
+  <td width=66 valign=top style='width:49.75pt;border:solid black 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US>No.46</span></p>
+  </td>
+  <td width=517 valign=top style='width:388.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal>各轴负向限位机床坐标值</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>1）<span style='font:7.0pt "Times New Roman"'> </span></span><span
+lang=EN-US>172.4</span>设为<span lang=EN-US>0</span>。</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>2）<span style='font:7.0pt "Times New Roman"'> </span></span><span
+lang=EN-US>XYZ</span>机床零点设在正向方向时，建议把<span lang=EN-US>45</span>号参数直接设为在零点<span
+lang=EN-US>5mm</span>的位置。</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>3）<span style='font:7.0pt "Times New Roman"'> </span></span>移动<span
+lang=EN-US>XYZ</span>轴到负向最大行程位置，然后把<span lang=EN-US>46</span>号参数设为与机床坐标相同的值。</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>4）<span style='font:7.0pt "Times New Roman"'> </span></span>设好软限位后，移动轴到各个限位位置检查限位是否正确有效。</p>
+
+</div>
+
+<span lang=EN-US style='font-size:10.5pt;font-family:等线'><br clear=all
+style='page-break-before:always'>
+</span>
+
+<div class=WordSection2 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+</div>
+`
