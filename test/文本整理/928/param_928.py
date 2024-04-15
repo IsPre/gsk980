@@ -32,7 +32,7 @@ for file in files:
                         '\\n', '\n').replace('\\t', '\t').replace('\\', '')
                     data[f'P{segment_number:}'] = f'"{segment_content}"'
         
-                    type[f'P{segment_number}'] = 'bit'
+                    type[f'P{segment_number}'] = 'word'
 
                 elif re.search(r'^\d+,(?=[\\])', line):
                     segments = line.split(',')
@@ -48,7 +48,7 @@ for file in files:
                     # segment_content = f'"{segment_content}"\n\r'
                     # data[f'P{segment_number}'] = segment_content
                     data[f'P{segment_number}'] = ''
-                    type[f'P{segment_number}'] = 'word'
+                    type[f'P{segment_number}'] = 'bit'
                     
                 else:
                     segment_line =line.split('\\n')
