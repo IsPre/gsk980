@@ -1,5 +1,5 @@
 {
-  "plc_dir": [
+  "dir": [
     {
       "id": 1,
       "name": "第一章 梯形图信息",
@@ -349,6 +349,190 @@
           "name": "3.4  手轮试切"
         }
       ]
+    }
+  ],
+  "url": [
+    {
+      "1": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part1.json",
+      "11": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part1.json",
+      "12": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part1.json"
+    },
+    {
+      "2": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part2.json"
+    },
+    {
+      "3": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3.json",
+      "31": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_1.json"
+    },
+    {
+      "32": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_2.json"
+    },
+    {
+      "33": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_3.json"
+    },
+    {
+      "34": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_4.json"
+    },
+    {
+      "35": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_5.json"
+    },
+    {
+      "36": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_6.json"
+    },
+    {
+      "37": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_7.json"
+    },
+    {
+      "38": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_8.json"
+    },
+    {
+      "39": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_9.json"
+    },
+    {
+      "310": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_10.json"
+    },
+    {
+      "311": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_11.json"
+    },
+    {
+      "312": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_12.json"
+    },
+    {
+      "313": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_13.json"
+    },
+    {
+      "314": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_14.json"
+    },
+    {
+      "315": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_15.json"
+    },
+    {
+      "316": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_16.json"
+    },
+    {
+      "317": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_17.json"
+    },
+    {
+      "318": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_18.json"
+    },
+    {
+      "319": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_19.json"
+    },
+    {
+      "320": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_20.json"
+    },
+    {
+      "321": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_21.json"
+    },
+    {
+      "322": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_22.json"
+    },
+    {
+      "323": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_23.json"
+    },
+    {
+      "324": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_24.json"
+    },
+    {
+      "325": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_25.json"
+    },
+    {
+      "326": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_26.json",
+      "3261": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_261.json"
+    },
+    {
+      "3262": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_262.json"
+    },
+    {
+      "3263": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_263.json"
+    },
+    {
+      "3264": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_264.json"
+    },
+    {
+      "3265": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_265.json"
+    },
+    {
+      "3266": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_266.json",
+      "32661": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_66.json",
+      "32662": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_266.json",
+      "32663": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_266.json",
+      "32664": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_266.json",
+      "32665": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_266.json",
+      "32666": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_266.json",
+      "32667": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_266.json",
+      "32668": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_266.json"
+    },
+    {
+      "3267": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_267.json"
+    },
+    {
+      "327": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_271.json",
+      "3271": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_271.json"
+    },
+    {
+      "3272": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_272.json"
+    },
+    {
+      "3273": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_273.json"
+    },
+    {
+      "3274": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_274.json"
+    },
+    {
+      "3275": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_275.json",
+      "32751": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_275.json",
+      "32752": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_275.json",
+      "32753": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_275.json",
+      "32754": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_275.json",
+      "32755": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_275.json",
+      "32756": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_275.json"
+    },
+    {
+      "3276": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_276.json"
+    },
+    {
+      "3281": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_281.json",
+      "328": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_281.json"
+    },
+    {
+      "3282": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_282.json"
+    },
+    {
+      "3283": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_283.json"
+    },
+    {
+      "3284": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_284.json"
+    },
+    {
+      "3285": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_285.json",
+      "32851": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_285.json",
+      "32852": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_285.json",
+      "32853": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_285.json",
+      "32854": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_285.json"
+    },
+    {
+      "3286": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_286.json",
+      "32861": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_286.json",
+      "32862": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_286.json"
+    },
+    {
+      "329": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_29.json"
+    },
+    {
+      "330": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_30.json"
+    },
+    {
+      "331": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_31.json"
+    },
+    {
+      "332": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_32.json"
+    },
+    {
+      "333": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_33.json"
+    },
+    {
+      "334": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/PLC/part3_34.json"
     }
   ]
 }
