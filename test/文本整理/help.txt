@@ -1,0 +1,108 @@
+标题:安装连接
+语言:中文
+版本:TDi V6.10
+修改时间:201505
+
+
+
+\r安装布局
+\n
+
+
+
+    本章对GSK980TDi的外形尺寸，后盖接口以及总体连接进行说明。
+
+\t外形尺寸
+\n    1.GSK980TDi外形尺寸
+ [pic]482,344,/sys/res/picture/chn/help/help2/GSK980TDi.gif[\pic]
+\p
+    2.GSK980TDi-V外形尺寸
+         [pic]298,331,/sys/res/picture/chn/help/help2/GSK980TDi_V.gif[\pic]
+\t后盖接口
+\n[pic]505,251,/sys/res/picture/chn/help/help2/BACK_view.gif[\pic]
+CN1： 电源接口
+CN4,CN5：GSKLINK总线接口B、A，连接伺服单元及IO单元
+CN15：模拟主轴1，9芯D型针插座，连接模拟主轴1
+CN16：模拟主轴2，9芯D型针插座，连接模拟主轴2
+CN21：编码器1，15芯D型针插座，连接主轴1编码器
+CN22：编码器2，15芯D型针插座，连接主轴2编码器
+CN31：手脉，26芯D型针插座，连接手脉
+CN51：通信，9芯D型孔插座，连接PC机RS232接口
+CN54：以太网接口，水晶头插座，连接PC机进行数据传输
+CN61：输入，44芯D型针插座，连接机床输入
+CN62：输出，44芯D型孔插座，连接机床输出
+CN66：主轴倍率输入信号，4点输入，连接附加面板
+CN67：进给倍率输入信号，4点输入，连接附加面板
+CN78：4点输入/2点输出，8点接线端子，机床输入、输出
+
+\t总体连接图
+\n
+ [pic]479,349,/sys/res/picture/chn/help/help2/lINK_view.gif[\pic]
+\r接口信号
+\n
+
+
+
+    本章对GSK980TDi的接口信号定义及连接方式进行说明。
+
+\tGSKLink
+\n    GSK980TDi的总线接口为CN4和CN5（GSKLinkB和GSKLinkA），此接口与进给伺服驱动单元、主轴驱动单元及扩展I/O单元通信连接。GSKLink总线通信采用的是环路控制，所有设备必须连成环路。
+    GSKLink总线通讯连接线如下图所示
+      [pic]385,121,/sys/res/picture/chn/help/help2/CN4_CN5.gif[\pic]
+\t主轴编码器
+\n    1.主轴编码器接口定义
+    CN21、CN22 编码器接口（15芯D型针插座）
+            [pic]194,165,/sys/res/picture/chn/help/help2/CN21_1.gif[\pic]
+        [pic]298,92,/sys/res/picture/chn/help/help2/CN21_2.gif[\pic]
+\p    2.主轴编码器接口连接
+    GSK980TDi与主轴编码器的连接如下图所示，连接时采用双绞线。
+        [pic]321,194,/sys/res/picture/chn/help/help2/CN21_3.gif[\pic]
+
+\t手脉
+\n    1.手脉CN31接口定义（26芯DB型针插座）
+[pic]500,350,/sys/res/picture/chn/help/help2/CN31.gif[\pic]
+\p    2.手脉CN32接口定义（4点接线端子）
+[pic]500,300,/sys/res/picture/chn/help/help2/CN32.gif[\pic]
+\p    3.手脉的连接
+[pic]500,350,/sys/res/picture/chn/help/help2/CN31_32_LINK.gif[\pic]
+\t模拟主轴
+\n    1.模拟主轴接口定义
+    CN15、CN16 模拟主轴接口（9芯D型针插座）
+[pic]500,300,/sys/res/picture/chn/help/help2/CN15_1.gif[\pic]
+\p    2.普通变频器连接
+    GSK980TDi与变频器的连接如下图所示：
+ [pic]491,301,/sys/res/picture/chn/help/help2/CN15_2.gif[\pic]
+\t串口连接
+\n    1.串口通信接口定义
+    CN51通信接口（9孔）
+                [pic]132,140,/sys/res/picture/chn/help/help2/CN51_1.gif[\pic]
+          [pic]318,82,/sys/res/picture/chn/help/help2/CN51_2.gif[\pic]
+\p    2.串口通信接口连接
+    GSK980TDi可通过CN51接口与PC机（须选配通信软件）进行通信，连接如下图所示：
+
+
+       [pic]360,120,/sys/res/picture/chn/help/help2/CN51_3.gif[\pic]
+
+\t网络接口
+\n    GSK980TDi的CN54网络接口为标准接口，其接口定义如下：
+
+
+    [pic]452,122,/sys/res/picture/chn/help/help2/CN54.gif[\pic]
+
+\t电源接口
+\n    GSK980TDi电源盒共有两组24V电压,GSK980TDi出厂时，电源盒的CN1接口已连接，用户只需要外接220V交流电源。
+                [pic]142,97,/sys/res/picture/chn/help/help2/CN1.gif[\pic]
+    24VCOM与输出接口CN62的24V电源端连通。当使用GSK980TDi自带的电源盒为外围电子器件供电时，请将系统电源盒的＋V与24VCOM连接。如使用外部电源供电时，请将外部电源的24V与24VCOM连接，且外部电源的0V必须与系统电源盒的-V连接。
+\tI/O接口
+\n    1.CN61输入信号(44芯D型针插座)
+[pic]500,355,/sys/res/picture/chn/help/help2/CN61_1.gif[\pic]
+[pic]500,412,/sys/res/picture/chn/help/help2/CN61_2.gif[\pic]
+\p    2.CN62输出信号(44芯D型孔插座)
+[pic]500,355,/sys/res/picture/chn/help/help2/CN62_1.gif[\pic]
+[pic]500,412,/sys/res/picture/chn/help/help2/CN62_2.gif[\pic]
+\p    3.CN78 IO接口
+[pic]500,350,/sys/res/picture/chn/help/help2/CN78.gif[\pic]
+\p    4.CN66外接主轴倍率接口
+[pic]500,350,/sys/res/picture/chn/help/help2/CN66.gif[\pic]
+\p    5.CN67外接主轴倍率接口
+[pic]500,350,/sys/res/picture/chn/help/help2/CN67.gif[\pic]

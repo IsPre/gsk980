@@ -1,0 +1,72 @@
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<h1><span lang=EN-US>5</span>、<span lang=EN-US>G02</span>、<span lang=EN-US>G03</span>螺旋线加工指令</h1>
+
+<p class=MsoNormal><b>指令说明：</b></p>
+
+<p class=MsoNormal>整圆加工时，如果指定一个加工次数<span lang=EN-US>P</span>，系统将<span
+lang=EN-US>Z</span>轴分成<span lang=EN-US>P</span>等分进行螺旋线加工</p>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal><b>指令格式：</b></p>
+
+<p class=MsoNormal><span lang=EN-US>G02/G03 J(I/K)__ Z__ P_</span></p>
+
+<p class=MsoNormal><span lang=EN-US>P</span>：指定螺旋线的加工次数</p>
+
+<p class=MsoNormal>注意事项：</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>1）<span style='font:7.0pt "Times New Roman"'> </span></span>只有指定整圆时，才能进行螺旋线加工</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>2）<span style='font:7.0pt "Times New Roman"'> </span></span><span
+lang=EN-US>P</span>只能为整数，指定小数时，小数无效</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>3）<span style='font:7.0pt "Times New Roman"'> </span></span>螺旋线加工不能和<span
+lang=EN-US>C</span>刀补进行复用，复用时无效</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>4）<span style='font:7.0pt "Times New Roman"'> </span></span>螺旋线加工不能和前瞻功能进行复用，复用时无效</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US>5）<span style='font:7.0pt "Times New Roman"'> </span></span>如果不指定<span
+lang=EN-US>Z</span>值，则会在当前<span lang=EN-US>Z</span>平面循环<span lang=EN-US>P</span>次</p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><span
+lang=EN-US style='font-size:12.0pt'>6）<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span><span style='font-size:12.0pt'>为了保证底部的平整，加工到底部时，会在底部平面再执行一圈整圆加工</span></p>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal><b>示例：</b></p>
+
+<p class=MsoNormal><span lang=EN-US>G90 G0 X0 Y0 Z-2</span></p>
+
+<p class=MsoNormal><span lang=EN-US>G02 J-15.11 Z-20 P6 F2000(</span>将<span
+lang=EN-US>-2</span>到<span lang=EN-US>-20</span>的距离分成<span lang=EN-US>6</span>等分进行螺旋线加工<span
+lang=EN-US>)</span></p>
+
+<p class=MsoNormal><span lang=EN-US>G0 Z-2</span></p>
+
+<p class=MsoNormal><span lang=EN-US>G02 J-15.11 P6 F2000 (</span>在<span
+lang=EN-US>Z-2</span>平面循环<span lang=EN-US>6</span>次<span lang=EN-US>)</span></p>
+
+<p class=MsoNormal><span lang=EN-US>M30</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=345 height=325
+src="https://gitee.com/lyyuoo/gsk980/raw/master/picture/980MDi%E5%AE%9E%E7%94%A8%E5%8A%9F%E8%83%BD/image052.png"></span></p>
+
+</div>
+
+<span lang=EN-US style='font-size:10.5pt;font-family:等线'><br clear=all
+style='page-break-before:always'>
+</span>
+
+<div class=WordSection2 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+</div>
