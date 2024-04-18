@@ -4,7 +4,7 @@ import json
 from urllib.parse import quote
 
 # 指定目录路径
-directory = "H:\\Desktop\\gitee\\lyyuoo\\980TDi\\产品彩页"
+directory = os.path.dirname(os.path.abspath(__file__))
 
 # 获取目录下所有文件
 files = os.listdir(directory)
@@ -21,7 +21,7 @@ pdf_files.sort(
 output_data = {"content_1": []}
 for pdf_file in pdf_files:
     name = os.path.splitext(pdf_file)[0]  # 去掉.pdf后缀
-    url = f"https://gitee.com/lyyuoo/lyyuoo/raw/master/988TA/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/{quote(pdf_file)}"
+    url = f"https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E4%BA%A7%E5%93%81%E5%BD%A9%E9%A1%B5/{quote(pdf_file)}"
 
     output_data["content_1"].append({"name": name, "url": url})
 
