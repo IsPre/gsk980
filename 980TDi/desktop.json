@@ -1,0 +1,39 @@
+{
+    "pageList": [
+        {
+            "imagePath": "/image/放大镜.png",
+            "name": "系统参数",
+            "pagePath": "/packageA/pages/search/search"
+        },
+        {
+            "imagePath": "/image/实用功能.png",
+            "name": "功能说明",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
+            "imagePath": "/image/接口.png",
+            "name": "接口说明",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
+            "imagePath": "/image/简易调试.png",
+            "name": "简易调试",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
+            "imagePath": "/image/产品彩页.png",
+            "name": "产品彩页",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
+            "imagePath": "/image/编程指令.png",
+            "name": "编程指令",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
+            "imagePath": "/image/PLC指令.png",
+            "name": "梯形图指令",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        }
+    ]
+}

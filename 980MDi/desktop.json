@@ -1,0 +1,39 @@
+{
+    "pageList": [
+        {
+            "imagePath": "/image/放大镜.png",
+            "name": "系统参数",
+            "pagePath": "/packageA/pages/search/search"
+        },
+        {
+            "imagePath": "/image/标准PLC.png",
+            "name": "标准PLC功能",
+            "pagePath": "/packageA/pages/htmlPage/htmlPage"
+        },
+        {
+            "imagePath": "/image/简易调试.png",
+            "name": "简易调试",
+            "pagePath": "/packageA/pages/htmlPage/htmlPage"
+        },
+        {
+            "imagePath": "/image/实用功能.png",
+            "name": "新功能",
+            "pagePath": "/packageA/pages/htmlPage/htmlPage"
+        },
+        {
+            "imagePath": "/image/限时停机.png",
+            "name": "停机解除",
+            "pagePath": "/packageA/pages/passwordCalc/passwordCalc"
+        },
+        {
+            "imagePath": "/image/版本记录.png",
+            "name": "版本记录",
+            "pagePath": "/packageA/pages/oneHtml/oneHtml"
+        },
+        {
+            "imagePath": "/image/资料库.png",
+            "name": "资料库",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        }
+    ]
+}
