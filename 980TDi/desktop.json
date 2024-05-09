@@ -6,6 +6,11 @@
             "pagePath": "/packageA/pages/search/search"
         },
         {
+            "imagePath": "/image/放大镜.png",
+            "name": "PLC参数",
+            "pagePath": "/packageA/pages/ParamSearch/ParamSearch"
+        },
+        {
             "imagePath": "/image/实用功能.png",
             "name": "功能说明",
             "pagePath": "/packageB/pages/docmentPage/docmentPage"
