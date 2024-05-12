@@ -11,21 +11,21 @@ def parse_text_line(line):
         # 初始化参数信息
         if type_prefix == "K":
             param_info = {
-                "num": num,  # 直接使用捕获到的数字部分
+                "num": type_prefix + num,  # 直接使用捕获到的数字部分
                 "type": type_prefix,  # 提取类型（K或DT）
                 "catalogue": value.strip(),  # 提取目录
                 "tip": [],  # 初始化描述列表
             }
         elif type_prefix == "DT":
             param_info = {
-                "num": num,  # 直接使用捕获到的数字部分
+                "num": type_prefix + num,  # 直接使用捕获到的数字部分
                 "type": type_prefix,  # 提取类型（K或DT）
                 "catalogue": "",  # 提取目录
                 "tip": [value.strip()],  # 初始化描述列表
             }
         elif type_prefix == "DC":
             param_info = {
-                "num": num,  # 直接使用捕获到的数字部分
+                "num": type_prefix + num,  # 直接使用捕获到的数字部分
                 "type": type_prefix,  # 提取类型（K或DT）
                 "catalogue": "",  # 提取目录
                 "tip": [value.strip()],  # 初始化描述列表
