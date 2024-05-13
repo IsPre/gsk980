@@ -44,6 +44,24 @@ def parse_detail_line(line, current_param):
         current_param["tip"].append(
             f"{detail_key}.{detail_num}: {detail_value.strip()}"
         )
+ 
+#补全tip中未给定的提示信息，
+def complete_tip(param):
+    dataDict = param["param"]
+    for key,value in dataDict.items():
+        if(value["type"] == "K"):
+            for i in range(8):
+                #如果i大于tip的个数，则补全后面的项目
+                if(len(dataDict[key]["tip"]) <= i):
+                    dataDict[key]["tip"].append(f"{key}.{str(i)}: 未用")
+                else:
+                    #如果i小于tip的个数，则补全前面的项目
+                    index = dataDict[key]["tip"][i].split(":")[0]
+                    if(index.split(".")[1] > str(i)):
+                        for j in range(int(index.split(".")[1])-i):
+                            dataDict[key]["tip"].insert(i+j,f"{index.split('.')[0]}.{str(i+j)}: 未用")
+    return {"param":dataDict}  
+
 
 
 def text_to_json(file_path):
@@ -66,7 +84,7 @@ def text_to_json(file_path):
             elif current_param:
                 parse_detail_line(line, current_param)
 
-    return data
+    return {"param":data}
 
 
 def main():
@@ -77,6 +95,7 @@ def main():
         if filename.endswith(".csv"):
             file_path = os.path.join(current_dir, filename)
             data = text_to_json(file_path)
+            data = complete_tip(data)
 
             # 去除文件扩展名，添加.json后缀
             json_filename = os.path.splitext(filename)[0] + ".json"
