@@ -6,7 +6,7 @@
             "pagePath": "/packageA/pages/search/search"
         },
         {
-            "imagePath": "/image/放大镜.png",
+            "imagePath": "/image/放大镜1.png",
             "name": "PLC参数",
             "pagePath": "/packageA/pages/ParamSearch/ParamSearch"
         },
