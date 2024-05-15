@@ -1,0 +1,14 @@
+{
+    "pageList": [
+        {
+            "imagePath": "/image/放大镜.png",
+            "name": "驱动参数",
+            "pagePath": "/packageA/pages/search/search"
+        },
+        {
+            "imagePath": "/image/资料库.png",
+            "name": "资料库",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        }
+    ]
+}
