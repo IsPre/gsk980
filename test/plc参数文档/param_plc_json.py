@@ -63,6 +63,28 @@ def complete_tip(param):
     return {"param":dataDict}  
 
 
+def remove_prefix_and_quotes(param):
+    # 创建一个新的字典来保存修改后的数据
+    new_dataDict = {k: v.copy() for k, v in param["param"].items()}
+    
+    # 遍历新字典
+    for key,value in new_dataDict.items():
+        # 只处理tip字段
+        for i in range(len(value["tip"])):
+            # 分割字符串并取后半部分
+            tip_parts = value["tip"][i].split(":", 1)
+            if len(tip_parts) > 1:
+                # 移除前缀，并处理可能的引号情况
+                new_tip = tip_parts[1].strip()
+                if new_tip.startswith('"'):
+                    new_tip = new_tip.strip('"')
+                value["tip"][i] = new_tip
+
+    # 返回新的字典
+    return {"param": new_dataDict}
+
+
+        
 
 def text_to_json(file_path):
     data = {}
@@ -95,7 +117,10 @@ def main():
         if filename.endswith(".csv"):
             file_path = os.path.join(current_dir, filename)
             data = text_to_json(file_path)
-            data = complete_tip(data)
+            data1 = complete_tip(data)
+
+            data = remove_prefix_and_quotes(data1)
+            
 
             # 去除文件扩展名，添加.json后缀
             json_filename = os.path.splitext(filename)[0] + ".json"
