@@ -4,7 +4,8 @@ import json
 from urllib.parse import quote
 
 # 指定目录路径
-directory = "C:\\Users\\lyyuo\\Desktop\\gitee repository\\lyyuoo\\988TA\\功能说明"
+
+directory = os.path.dirname(os.path.abspath(__file__))
 
 # 获取目录下所有文件
 files = os.listdir(directory)
@@ -26,7 +27,7 @@ for pdf_file in pdf_files:
     output_data["content_2"].append({"name": name, "url": url})
 
 # 保存为JSON格式
-output_file = "C:\\Users\\lyyuo\\Desktop\\gitee repository\\lyyuoo\\988TA\\功能说明/catalogue.json"
+output_file = f"{directory}/catalogue.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(output_data, f, ensure_ascii=False, indent=4)
 
