@@ -1,0 +1,56 @@
+{
+    "content_1": [
+        {
+            "name": "2.1  GSK-Link总线接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.1%20%20GSK-Link%E6%80%BB%E7%BA%BF%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "2.2  与主轴编码器的连接",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.2%20%20%E4%B8%8E%E4%B8%BB%E8%BD%B4%E7%BC%96%E7%A0%81%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5.pdf"
+        },
+        {
+            "name": "2.3  与手脉的连接",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.3%20%20%E4%B8%8E%E6%89%8B%E8%84%89%E7%9A%84%E8%BF%9E%E6%8E%A5.pdf"
+        },
+        {
+            "name": "2.4  模拟主轴接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.4%20%20%E6%A8%A1%E6%8B%9F%E4%B8%BB%E8%BD%B4%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "2.5  与PC机串口的连接",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.5%20%20%E4%B8%8EPC%E6%9C%BA%E4%B8%B2%E5%8F%A3%E7%9A%84%E8%BF%9E%E6%8E%A5.pdf"
+        },
+        {
+            "name": "2.6  网络接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.6%20%20%E7%BD%91%E7%BB%9C%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "2.7  电源接口连接",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.7%20%20%E7%94%B5%E6%BA%90%E6%8E%A5%E5%8F%A3%E8%BF%9E%E6%8E%A5.pdf"
+        },
+        {
+            "name": "2.8.1  CN61输入信号",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.8.1%20%20CN61%E8%BE%93%E5%85%A5%E4%BF%A1%E5%8F%B7.pdf"
+        },
+        {
+            "name": "2.8.2  CN62输出信号",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.8.2%20%20CN62%E8%BE%93%E5%87%BA%E4%BF%A1%E5%8F%B7.pdf"
+        },
+        {
+            "name": "2.8.3 系统专用输入输出信号",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.8.3%20%E7%B3%BB%E7%BB%9F%E4%B8%93%E7%94%A8%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E4%BF%A1%E5%8F%B7.pdf"
+        },
+        {
+            "name": "2.8.4  输入输出信号",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.8.4%20%20%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E4%BF%A1%E5%8F%B7.pdf"
+        },
+        {
+            "name": "2.9  GSK980MDi-H操作面板接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.9%20%20GSK980TDi-H%E6%93%8D%E4%BD%9C%E9%9D%A2%E6%9D%BF%E6%8E%A5%E5%8F%A3.pdf"
+        },
+        {
+            "name": "2.10  10.4英寸屏GSK980MDi操作面板接口",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/2.10%20%2010.4%E8%8B%B1%E5%AF%B8%E5%B1%8FGSK980TDi%E6%93%8D%E4%BD%9C%E9%9D%A2%E6%9D%BF%E6%8E%A5%E5%8F%A3.pdf"
+        }
+    ]
+}

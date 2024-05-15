@@ -11,13 +11,18 @@
             "pagePath": "/packageA/pages/htmlPage/htmlPage"
         },
         {
+            "imagePath": "/image/接口.png",
+            "name": "接口说明",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
             "imagePath": "/image/简易调试.png",
             "name": "简易调试",
             "pagePath": "/packageA/pages/htmlPage/htmlPage"
         },
         {
             "imagePath": "/image/实用功能.png",
-            "name": "新功能",
+            "name": "功能说明",
             "pagePath": "/packageA/pages/htmlPage/htmlPage"
         },
         {
