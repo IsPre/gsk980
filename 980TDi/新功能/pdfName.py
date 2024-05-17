@@ -28,7 +28,7 @@ for pdf_file in pdf_files:
     output_data["content_1"].append({"name": name, "url": url})
 
 # 保存为JSON格式
-output_file = f"{directory}/catalogue1.json"
+output_file = f"{directory}/catalogue.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(output_data, f, ensure_ascii=False, indent=4)
 

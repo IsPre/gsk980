@@ -17,16 +17,18 @@ pdf_files.sort(
     key=lambda x: [int(s) if s.isdigit() else s.lower() for s in re.split(r"(\d+)", x)]
 )
 
+parentDir = "产品彩页"
+
 # 构建输出格式
 output_data = {"content_1": []}
 for pdf_file in pdf_files:
     name = os.path.splitext(pdf_file)[0]  # 去掉.pdf后缀
-    url = f"https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/%E4%BA%A7%E5%93%81%E5%BD%A9%E9%A1%B5/{quote(pdf_file)}"
+    url = f"https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi//{quote(parentDir)}/{quote(pdf_file)}"
 
     output_data["content_1"].append({"name": name, "url": url})
 
 # 保存为JSON格式
-output_file = f"{directory}/catalogue3.json"
+output_file = f"{directory}/catalogue.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(output_data, f, ensure_ascii=False, indent=4)
 

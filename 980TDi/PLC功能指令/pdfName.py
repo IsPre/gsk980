@@ -4,7 +4,7 @@ import json
 from urllib.parse import quote
 
 # 指定目录路径
-directory = "H:\\Desktop\\gitee\\lyyuoo\980TDi\\PLC功能指令"
+directory = os.path.dirname(os.path.abspath(__file__))
 
 # 获取目录下所有文件
 files = os.listdir(directory)
@@ -17,16 +17,18 @@ pdf_files.sort(
     key=lambda x: [int(s) if s.isdigit() else s.lower() for s in re.split(r"(\d+)", x)]
 )
 
+parentDir = "PLC功能指令"
+
 # 构建输出格式
 output_data = {"content_1": []}
 for pdf_file in pdf_files:
     name = os.path.splitext(pdf_file)[0]  # 去掉.pdf后缀
-    url = f"https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/PLC%E5%8A%9F%E8%83%BD%E6%8C%87%E4%BB%A4/{quote(pdf_file)}"
+    url = f"https://gitee.com/lyyuoo/lyyuoo/raw/master/980TDi/{quote(parentDir)}/{quote(pdf_file)}"
 
-    output_data["content_2"].append({"name": name, "url": url})
+    output_data["content_1"].append({"name": name, "url": url})
 
 # 保存为JSON格式
-output_file = "H:\\Desktop\\gitee\\lyyuoo\980TDi\\PLC功能指令/catalogue.json"
+output_file = f"{directory}/catalogue.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(output_data, f, ensure_ascii=False, indent=4)
 
