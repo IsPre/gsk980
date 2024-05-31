@@ -26,7 +26,7 @@ parentDir = os.path.basename(directory)
 output_data = {"content_1": []}
 for pdf_file in pdf_files:
     name = os.path.splitext(pdf_file)[0]  # 去掉.pdf后缀
-    url = f"https://gitee.com/lyyuoo/lyyuoo/raw/master/GT/{quote(parentDir)}/{quote(pdf_file)}"
+    url = f"https://gitee.com/lyyuoo/lyyuoo/raw/master/GR/{quote(parentDir)}/{quote(pdf_file)}"
 
     output_data["content_1"].append({"name": name, "url": url})
 
