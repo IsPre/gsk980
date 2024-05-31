@@ -7,12 +7,32 @@
         },
         {
             "imagePath": "/image/实用功能.png",
-            "name": "功能说明",
+            "name": "功能操作",
             "pagePath": "/packageB/pages/docmentPage/docmentPage"
         },
         {
             "imagePath": "/image/接口.png",
             "name": "接口说明",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
+            "imagePath": "/image/简易调试.png",
+            "name": "安装调试",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
+            "imagePath": "/image/编程指令.png",
+            "name": "编程指令",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
+            "imagePath": "/image/PLC指令.png",
+            "name": "PLC说明",
+            "pagePath": "/packageB/pages/docmentPage/docmentPage"
+        },
+        {
+            "imagePath": "/image/产品彩页.png",
+            "name": "使用手册",
             "pagePath": "/packageB/pages/docmentPage/docmentPage"
         }
     ]
