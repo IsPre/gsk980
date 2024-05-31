@@ -7,6 +7,9 @@ from urllib.parse import quote
 
 directory = os.path.dirname(os.path.abspath(__file__))
 
+#获取目录名称
+parentDir = os.path.basename(directory)
+
 # 获取目录下所有文件
 files = os.listdir(directory)
 
@@ -18,7 +21,7 @@ pdf_files.sort(
     key=lambda x: [int(s) if s.isdigit() else s.lower() for s in re.split(r"(\d+)", x)]
 )
 
-parentDir = "功能说明"
+
 
 # 构建输出格式
 output_data = {"content_1": []}

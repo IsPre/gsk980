@@ -18,7 +18,8 @@ pdf_files.sort(
     key=lambda x: [int(s) if s.isdigit() else s.lower() for s in re.split(r"(\d+)", x)]
 )
 
-parentDir = "接口说明"
+#获取目录名称
+parentDir = os.path.basename(directory)
 
 # 构建输出格式
 output_data = {"content_1": []}
