@@ -1,88 +1,104 @@
 {
     "content_1": [
         {
-            "name": "1、简易调试总说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/980MDi%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95%E8%AF%B4%E6%98%8E.pdf"
+            "name": "1、简易调试说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/1%E3%80%81%E7%AE%80%E6%98%93%E8%B0%83%E8%AF%95%E8%AF%B4%E6%98%8E.pdf"
         },
         {
             "name": "2、实用功能汇总说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/980MDi%E5%AE%9E%E7%94%A8%E5%8A%9F%E8%83%BD%E6%B1%87%E6%80%BB%E8%AF%B4%E6%98%8E.pdf"
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/2%E3%80%81%E5%AE%9E%E7%94%A8%E5%8A%9F%E8%83%BD%E6%B1%87%E6%80%BB%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "3、报警和解除说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E6%8A%A5%E8%AD%A6%E5%92%8C%E8%A7%A3%E9%99%A4.pdf"
+            "name": "3、报警和解除",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/3%E3%80%81%E6%8A%A5%E8%AD%A6%E5%92%8C%E8%A7%A3%E9%99%A4.pdf"
         },
         {
-            "name": "4、图表功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E5%9B%BE%E8%A1%A8%E7%BC%96%E7%A8%8B%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf"
+            "name": "4、图表编程使用说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/4%E3%80%81%E5%9B%BE%E8%A1%A8%E7%BC%96%E7%A8%8B%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "5、周边轴功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/980MDi%20%E5%91%A8%E8%BE%B9%E8%BD%B4%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf"
+            "name": "5、周边轴使用说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/5%E3%80%81%E5%91%A8%E8%BE%B9%E8%BD%B4%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "6、同步轴轴功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E5%90%8C%E6%AD%A5%E8%BD%B4%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
+            "name": "6、同步轴功能说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/6%E3%80%81%E5%90%8C%E6%AD%A5%E8%BD%B4%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "7、外部信号打开程序说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E5%A4%96%E9%83%A8%E4%BF%A1%E5%8F%B7%E6%89%93%E5%BC%80%E7%A8%8B%E5%BA%8F%E5%8A%9F%E8%83%BD.pdf"
+            "name": "7、外部信号打开程序功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/7%E3%80%81%E5%A4%96%E9%83%A8%E4%BF%A1%E5%8F%B7%E6%89%93%E5%BC%80%E7%A8%8B%E5%BA%8F%E5%8A%9F%E8%83%BD.pdf"
         },
         {
-            "name": "8、系统面板地址说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/980MDi%E9%9D%A2%E6%9D%BF%E5%9C%B0%E5%9D%80.pdf"
+            "name": "8、面板地址",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/8%E3%80%81%E9%9D%A2%E6%9D%BF%E5%9C%B0%E5%9D%80.pdf"
         },
         {
             "name": "9、总线转脉冲IO单元使用说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/980MDi%E9%85%8D%E6%80%BB%E7%BA%BF%E8%BD%AC%E8%84%89%E5%86%B2IO%E5%8D%95%E5%85%83%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf"
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/9%E3%80%81%E6%80%BB%E7%BA%BF%E8%BD%AC%E8%84%89%E5%86%B2IO%E5%8D%95%E5%85%83%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "10、限时停机使用说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/980MDi%E9%99%90%E6%97%B6%E5%81%9C%E6%9C%BA%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
+            "name": "10、限时停机功能说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/10%E3%80%81%E9%99%90%E6%97%B6%E5%81%9C%E6%9C%BA%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
         },
         {
             "name": "11、980TDi主板升级为980MDi软件操作说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/980TDi%E4%B8%BB%E6%9D%BF%E5%8D%87%E7%BA%A7%E4%B8%BA980MDi%E8%BD%AF%E4%BB%B6%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.pdf"
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/11%E3%80%81980TDi%E4%B8%BB%E6%9D%BF%E5%8D%87%E7%BA%A7%E4%B8%BA980MDi%E8%BD%AF%E4%BB%B6%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "12、DXF文件钻孔铣槽功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/DXF%E6%96%87%E4%BB%B6%E9%92%BB%E5%AD%94%E9%93%A3%E6%A7%BD%E5%8A%9F%E8%83%BD.pdf"
+            "name": "12、DXF文件钻孔铣槽功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/12%E3%80%81DXF%E6%96%87%E4%BB%B6%E9%92%BB%E5%AD%94%E9%93%A3%E6%A7%BD%E5%8A%9F%E8%83%BD.pdf"
         },
         {
             "name": "13、位置开关功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E4%BD%8D%E7%BD%AE%E5%BC%80%E5%85%B3%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/13%E3%80%81%E4%BD%8D%E7%BD%AE%E5%BC%80%E5%85%B3%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
         },
         {
             "name": "14、导入REN螺补文件功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E5%AF%BC%E5%85%A5REN%E8%9E%BA%E8%A1%A5%E6%96%87%E4%BB%B6%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/14%E3%80%81%E5%AF%BC%E5%85%A5REN%E8%9E%BA%E8%A1%A5%E6%96%87%E4%BB%B6%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "15、小线段前瞻功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E5%B0%8F%E7%BA%BF%E6%AE%B5%E5%89%8D%E7%9E%BB%E5%8A%9F%E8%83%BD.pdf"
+            "name": "15、小线段前瞻功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/15%E3%80%81%E5%B0%8F%E7%BA%BF%E6%AE%B5%E5%89%8D%E7%9E%BB%E5%8A%9F%E8%83%BD.pdf"
         },
         {
-            "name": "16、开机画面导入说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E5%BC%80%E6%9C%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E7%94%BB%E9%9D%A2%E5%AF%BC%E5%85%A5%E5%8A%9F%E8%83%BD.pdf"
+            "name": "16、开机自定义画面导入功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/16%E3%80%81%E5%BC%80%E6%9C%BA%E8%87%AA%E5%AE%9A%E4%B9%89%E7%94%BB%E9%9D%A2%E5%AF%BC%E5%85%A5%E5%8A%9F%E8%83%BD.pdf"
         },
         {
             "name": "17、手轮回退功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E6%89%8B%E8%BD%AE%E5%9B%9E%E9%80%80%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/17%E3%80%81%E6%89%8B%E8%BD%AE%E5%9B%9E%E9%80%80%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "18、手轮试切功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E6%89%8B%E8%BD%AE%E8%AF%95%E5%88%87%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+            "name": "18、手轮试切说明书",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/18%E3%80%81%E6%89%8B%E8%BD%AE%E8%AF%95%E5%88%87%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
         },
         {
             "name": "19、断点恢复功能操作说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E6%96%AD%E7%82%B9%E6%81%A2%E5%A4%8D%E5%8A%9F%E8%83%BD%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.pdf"
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/19%E3%80%81%E6%96%AD%E7%82%B9%E6%81%A2%E5%A4%8D%E5%8A%9F%E8%83%BD%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.pdf"
         },
         {
-            "name": "20、钻孔攻丝电流检测功能说明",
-            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/docment/%E9%92%BB%E5%AD%94%E6%94%BB%E4%B8%9D%E7%94%B5%E6%B5%81%E6%A3%80%E6%B5%8B%E5%8A%9F%E8%83%BD.pdf"
+            "name": "20、钻孔攻丝电流检测功能",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/20%E3%80%81%E9%92%BB%E5%AD%94%E6%94%BB%E4%B8%9D%E7%94%B5%E6%B5%81%E6%A3%80%E6%B5%8B%E5%8A%9F%E8%83%BD.pdf"
         },
         {
-            "name": "21、刚性攻丝波形分析说明",
-            "url": "https://gitee.com/lyyuoo/gsk980/raw/master/docment/980MDi%E8%B5%84%E6%96%99%E5%BA%93/%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E6%B3%A2%E5%BD%A2%E5%88%86%E6%9E%90%E8%AF%B4%E6%98%8E.pdf"
+            "name": "21、Modbus通讯功能使用说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/21%E3%80%81Modbus%E9%80%9A%E8%AE%AF%E5%8A%9F%E8%83%BD%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf"
+        },
+        {
+            "name": "22、刚性攻丝波形分析说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/22%E3%80%81%E5%88%9A%E6%80%A7%E6%94%BB%E4%B8%9D%E6%B3%A2%E5%BD%A2%E5%88%86%E6%9E%90%E8%AF%B4%E6%98%8E.pdf"
+        },
+        {
+            "name": "23、M型换挡设置说明",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/23%E3%80%81M%E5%9E%8B%E6%8D%A2%E6%8C%A1%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.pdf"
+        },
+        {
+            "name": "24、梯形图功能配置",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/24%E3%80%81%E6%A2%AF%E5%BD%A2%E5%9B%BE%E5%8A%9F%E8%83%BD%E9%85%8D%E7%BD%AE.pdf"
+        },
+        {
+            "name": "25、GSK980MDi系列操作使用手册2022年4月第3版",
+            "url": "https://gitee.com/lyyuoo/lyyuoo/raw/master/980MDi/docment/25%E3%80%81GSK980MDi%E7%B3%BB%E5%88%97%E6%93%8D%E4%BD%9C%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C2022%E5%B9%B44%E6%9C%88%E7%AC%AC3%E7%89%88.pdf"
         }
     ]
 }
